@@ -20,6 +20,13 @@
     min-width: 60px;
     padding: 6px;
 }
+.item:first-child{
+    border-bottom-left-radius: 10px;
+}
+
+.item:last-child{
+    border-bottom-right-radius: 10px;
+}
 
 .title{
     font-size: 25px;
