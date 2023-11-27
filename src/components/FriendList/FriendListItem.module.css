@@ -1,0 +1,23 @@
+.status{
+    border-radius: 50%;
+    display:block;  
+    width: 10px;
+    height: 10px;
+}
+.online{
+    background-color: green;
+}
+.offline{
+    background-color: red;
+}
+.item{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    margin-bottom: 10px;
+    border-radius: 10px;
+        box-shadow: 2px 2px 4px;
+        min-width: 250px;
+        padding: 15px;
+        gap: 10px;
+}

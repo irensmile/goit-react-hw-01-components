@@ -1,8 +1,9 @@
 .profile{
     background-color: white;
-    margin: 30px;
     border-radius: 10px;
     box-shadow: 2px 2px 4px;
+    text-align: center;
+    margin: 30px;
 
 }
 .description {
